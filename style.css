@@ -72,3 +72,38 @@ p {
     color: #333;
     line-height: 1.6;
 }
+
+.food-item {
+    color: purple;
+}
+
+.game-item {
+    color: #ffb3ec;
+}
+.animal-item {
+    color: #ff1ac6;
+}
+
+.fun-fact-box {
+    background-color: #ffb3e6;
+    border-radius: 10px;
+    border: 3px solid hotpink;
+    box-shadow: 0 0 3px #FF0000;
+    color: hotpink;
+}
+
+p {
+    color: hotpink;   
+}
+
+li {
+    color: hotpink;
+}
+
+.fun-fact-box2 {
+    background-color: purple;
+    border-radius: 10px;
+    border: 3px solid hotpink;
+    box-shadow: 0 0 3px #FF0000;
+    color: hotpink;
+}
